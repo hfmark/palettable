@@ -25,5 +25,8 @@ It's written in pure Python with no dependencies, but it can supply color maps
 for matplotlib. You can use Palettable to customize matplotlib plots or supply
 colors for a web application.
 
+This version of Palettable has been modified to include `Sarah Hu's Woods Hole
+color palettes <https://github.com/shu251/PaletteWoodsHole>`_.
+
 For more information see the
 `documentation <https://jiffyclub.github.io/palettable/>`_.

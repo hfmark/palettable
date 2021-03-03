@@ -16,5 +16,6 @@ from . import mycarta
 from . import scientific
 from . import wesanderson
 from . import tableau
+from . import woodshole
 
 version = __version__ = '3.3.0.dev.0'

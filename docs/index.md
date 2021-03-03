@@ -24,6 +24,7 @@ Palettable has color palettes from:
 - [Scientific][scientific]
 - [Tableau][tableau]
 - The [Wes Anderson Palettes][wesanderson] blog
+- [Woods Hole Palettes][woodshole] by Sarah Hu
 
 # Documentation
 
@@ -60,6 +61,7 @@ The modules with palettes are:
 - [`palettable.scientific.sequential`][scientific/sequential]
 - [`palettable.tableau`][tableau]
 - [`palettable.wesanderson`][wesanderson]
+- [`palettable.woodshole`][woodshole]
 
 The `Dark2_7` palette could be imported via:
 

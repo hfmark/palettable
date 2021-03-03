@@ -25,6 +25,10 @@ def test_wes_anderson():
     assert isinstance(palettable.wesanderson.Aquatic1_5, Palette)
 
 
+def test_woods_hole():
+    assert isinstance(palettable.woodshole.whoi_6, Palette)
+
+
 def test_matplotlib():
     assert isinstance(palettable.matplotlib.Viridis_8, Palette)
 

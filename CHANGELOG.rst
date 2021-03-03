@@ -1,3 +1,5 @@
+* Sarah Hu's Woods Hole color palettes (see `https://github.com/shu251/PaletteWoodsHole>`_)
+
 Version 3.2.0
 -------------
 
